@@ -2,4 +2,4 @@
 1er proyecto de repositorios y aplicaciones web:
 
 Esta aplicación permite visualizar la distribución que tiene una base de datos sobre la condición, precio, año y marca de autos que posée una empresa para su venta  
-Link de aplicación: https://github.com/user-attachments/assets/c26aec2c-449a-434c-a264-63e60de7f121
+Link de aplicación: https://proyecto-sprint-7-dashboard-vehiculos.onrender.com
